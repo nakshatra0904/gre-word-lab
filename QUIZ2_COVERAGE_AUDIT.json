@@ -1,0 +1,43 @@
+{
+  "version": "2026-10-31-v1",
+  "questions": 1000,
+  "originalWords": 1000,
+  "extraCorrectWords": 464,
+  "researchedExtraWords": 93,
+  "typeCounts": {
+    "tc1": 400,
+    "se": 200,
+    "tc2": 300,
+    "tc3": 100
+  },
+  "sources": [
+    {
+      "title": "ETS \u00b7 Text Completion structure and scoring",
+      "url": "https://grediagnostic.ets.org/GREDWeb/gred/text_completion.jsp"
+    },
+    {
+      "title": "ETS \u00b7 Sentence Equivalence structure",
+      "url": "https://grediagnostic.ets.org/GREDWeb/gred/sentence_equivalance.jsp"
+    },
+    {
+      "title": "ETS \u00b7 Verbal Reasoning overview",
+      "url": "https://www.in.ets.org/gre/test-takers/general-test/prepare/content/verbal-reasoning.html"
+    },
+    {
+      "title": "PrepScholar \u2014 The 357 Best GRE Vocabulary Words",
+      "url": "https://www.prepscholar.com/gre/blog/gre-vocabulary-list-words/"
+    },
+    {
+      "title": "Vince Kotchian \u2014 GRE Vocabulary List: A to C",
+      "url": "https://vincekotchian.com/blog/gre/gre-vocabulary-list/"
+    },
+    {
+      "title": "Magoosh GRE vocabulary list",
+      "url": "https://s3.amazonaws.com/magoosh.resources/magoosh-gre-1000-words_oct01.pdf"
+    }
+  ],
+  "warnings": [],
+  "missingOriginalWords": [],
+  "primaryTargetCount": 1000,
+  "questionsSHA256": "359a95d5bdb1171e753da371cff56a6e5d17565052ea1fd2cf7b32c54914c536"
+}
